@@ -1,5 +1,5 @@
 # LA Hacks 2019: Leaf
-More on Devpost: https://devpost.com/software/chicknskratch
+More on Devpost: https://devpost.com/software/leaf-l23fet
 
 ## Inspiration
 In order to let people **protect** environment,  you should let them **care** about environment first. _Leaf_ is an application that use virtual reward and competition to drive people to learn more knowledge about plant near them. In this way, people can have more passion to protect their green neighborhood. Our idea is inspired by Pokemon Go and other social media. 
